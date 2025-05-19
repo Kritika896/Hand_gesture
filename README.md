@@ -36,6 +36,8 @@ MediaPipe provides efficient hand tracking using deep learning models. It:
 This project demonstrates real-time hand gesture recognition using MediaPipe.
 You can extend it further by:
 
+![image alt](https://github.com/Kritika896/Hand_gesture/blob/main/Screenshot%202025-05-19%20152354.png?raw=true)
+
 -✋ Adding more gesture classifications
 
 -🧠 Integrating with AR/VR applications
