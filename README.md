@@ -29,6 +29,7 @@ MediaPipe provides efficient hand tracking using deep learning models. It:
 - Uses landmark positions to recognize gestures.
 
 ## 📈 Model Summary
+![image alt](https://github.com/Kritika896/Hand_gesture/blob/main/Screenshot%202025-05-19%20152322.png?raw=true)
 
 
 ## 🧾 Conclusion
